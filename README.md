@@ -1,4 +1,4 @@
-# 💼 Salary Classification with Dense Neural Networks
+# 💼 Salary Classification with Dense Neural Networks - ML4ER final project
 
 ## Overview (check out the [full workbook](https://github.com/ShadTheShadow/Salary-Prediction-NN/blob/main/ML4ER_FinalProject_EvanWilliams%20(4-17-25).ipynb))
 
