@@ -15,7 +15,9 @@ The target variable is binary (above or below $50k/year), and the model is train
 
 ## Dataset
 
-The dataset used is a cleaned and preprocessed version of the UCI Adult Income dataset. It includes demographic and work-related features such as:
+[Original dataset](https://www.kaggle.com/datasets/uciml/adult-census-income/data)
+
+The original data is cleaned and preprocessed in the workbook to ensure the best results for the neural network. The data includes features such as...
 
 - Age
 - Education
@@ -23,6 +25,7 @@ The dataset used is a cleaned and preprocessed version of the UCI Adult Income d
 - Hours per week
 - Relationship status
 - Native country
+- Income
 - etc.
 
 Simplified model feature distributions:
