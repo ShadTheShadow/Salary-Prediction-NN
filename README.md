@@ -1,6 +1,6 @@
 # 💼 Salary Classification with Dense Neural Networks
 
-## Overview
+## Overview (check out the [full workbook](https://github.com/ShadTheShadow/Salary-Prediction-NN/blob/main/ML4ER_FinalProject_EvanWilliams%20(4-17-25).ipynb))
 
 This project explores the use of a Dense Neural Network (Dense-NN) machine learning model to predict whether an individual's salary exceeds $50k/year. The classification problem is approached using Python, TensorFlow, and MAST-ML for feature engineering and model evaluation.
 
