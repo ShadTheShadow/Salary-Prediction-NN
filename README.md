@@ -27,8 +27,8 @@ The dataset used is a cleaned and preprocessed version of the UCI Adult Income d
 
 Simplified model feature distributions:
 
-![Age distro](https://github.com/user-attachments/assets/b655de28-2f1e-4374-8e7d-4f90f64a8abd = 250x250)
-![Income distro](https://github.com/user-attachments/assets/bf6fa8e2-0adc-4b1e-89f9-dd5edfaf8b78 = 250x250)
+![Age distro](https://github.com/user-attachments/assets/b655de28-2f1e-4374-8e7d-4f90f64a8abd)
+![Income distro](https://github.com/user-attachments/assets/bf6fa8e2-0adc-4b1e-89f9-dd5edfaf8b78)
 
 
 ## Approach
